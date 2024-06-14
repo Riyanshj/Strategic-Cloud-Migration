@@ -99,6 +99,6 @@ Tech University, a leading institution known for its research and technological 
 | Annual Costs        | $500,000                 | 30% reduction                |
 | Energy Consumption  | 1.2 million kWh/year     | Significant reduction        |
 
-###Final Case Study Restatement
+## Final Case Study Restatement
 
 Tech University’s IT department is migrating its on-premises systems to AWS Cloud to enhance scalability, reduce costs, and support growing data storage and computational needs. This case study covers the detailed assessment of current infrastructure, strategic planning for the migration, execution phases with specific AWS services, and post-migration performance analysis. The goal is to prompt students to critically evaluate the entire process, identify potential challenges, propose innovative solutions, and understand the practical implications of cloud migration.
