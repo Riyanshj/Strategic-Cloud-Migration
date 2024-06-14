@@ -1,12 +1,12 @@
-#Hypothetical Scenario:
+# Hypothetical Scenario:
 
-###Imagine a scenario where Tech University’s IT department is considering a strategic move to migrate its on-premises systems to AWS Cloud. This prospective plan aims to enhance scalability, reduce costs, and support their growing needs for data storage and computational power.
+### Imagine a scenario where Tech University’s IT department is considering a strategic move to migrate its on-premises systems to AWS Cloud. This prospective plan aims to enhance scalability, reduce costs, and support their growing needs for data storage and computational power.
 
-#Restated Hypothetical Scenario:
+# Restated Hypothetical Scenario:
 
-In this theoretical case, Tech University is exploring the possibility of transitioning its on-premises IT infrastructure to AWS Cloud. The anticipated benefits of such a migration include achieving greater scalability, cost-efficiency, and meeting the increasing demands for data storage and computational power, which are essential for the university’s expanding operations and research activities.
+### In this theoretical case, Tech University is exploring the possibility of transitioning its on-premises IT infrastructure to AWS Cloud. The anticipated benefits of such a migration include achieving greater scalability, cost-efficiency, and meeting the increasing demands for data storage and computational power, which are essential for the university’s expanding operations and research activities.
 
-#Unique Case Study
+# Unique Case Study
 
 ## Background:
 Tech University, a leading institution known for its research and technological advancements, is currently operating a traditional on-premises data center. This data center supports various administrative systems, student databases, research projects, and educational resources. However, the increasing volume of data and computational requirements are straining the existing infrastructure, leading to higher maintenance costs and limited scalability. The IT department has decided to migrate to AWS Cloud to address these challenges.
