@@ -32,6 +32,4 @@ Please note that this case study is entirely hypothetical and is intended for ed
 
 ## Getting Started
 
-To begin exploring this case study, please proceed to the 'Background' section, which provides the context for Tech University's decision to migrate to the cloud.
-
-Thank you for engaging with this hypothetical exploration of cloud migration in the academic sector.
+To begin exploring this case study, please proceed to the 'CASE STUDY' section.
