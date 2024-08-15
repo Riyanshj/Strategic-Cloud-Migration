@@ -1,24 +1,24 @@
 # Hypothetical Scenario:
 
-#### Imagine a scenario where Tech University’s IT department is considering a strategic move to migrate its on-premises systems to AWS Cloud. This prospective plan aims to enhance scalability, reduce costs, and support their growing needs for data storage and computational power.
+#### Imagine Tech University’s IT team is planning to move their computer systems from their own servers to the AWS Cloud. They’re looking to do this to make their systems more flexible and scalable, save on costs, and better handle their increasing needs for data storage and computing power.
 
 # Restated Hypothetical Scenario:
 
-#### In this theoretical case, Tech University is exploring the possibility of transitioning its on-premises IT infrastructure to AWS Cloud. The anticipated benefits of such a migration include achieving greater scalability, cost-efficiency, and meeting the increasing demands for data storage and computational power, which are essential for the university’s expanding operations and research activities.
+#### Tech University is thinking about moving its IT systems to AWS Cloud. This move could help the university by making it easier to scale up resources as needed, saving money on hardware, and providing more storage and computing power to support its growing activities and research.
 
 # Unique Case Study
 
 ## Background:
-Tech University, a leading institution known for its research and technological advancements, is currently operating a traditional on-premises data center. This data center supports various administrative systems, student databases, research projects, and educational resources. However, the increasing volume of data and computational requirements are straining the existing infrastructure, leading to higher maintenance costs and limited scalability. The IT department has decided to migrate to AWS Cloud to address these challenges.
+Tech University, a school known for its research and tech innovation, currently runs a traditional data center on its campus. This data center handles everything from administrative systems and student records to research and educational tools. However, as the amount of data and need for computing power grow, the old setup is becoming too costly to maintain and isn't flexible enough. To solve these issues, the IT department has decided to move everything to AWS Cloud.
 
 ## Migration Plan:
 
 **Phase 1: Assessment and Planning**
 - **Current Infrastructure Overview**:
   - **Servers**: 150 physical servers, various ages and capacities.
-  - **Storage**: 500 TB of data stored across multiple storage arrays.
-  - **Applications**: Student Information System (SIS), Learning Management System (LMS), research databases, email servers.
-  - **Networking**: Legacy network architecture with limited redundancy.
+  - **Storage**: They have 500 TB of data spread across several storage systems.
+  - **Applications**: They use systems for student information (SIS), learning management (LMS), research databases, and email.
+  - **Networking**: Their network is outdated with limited backup options.
 
 **Costs**:
 - **Annual Maintenance**: $500,000.
